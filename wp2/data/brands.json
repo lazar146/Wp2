@@ -1,0 +1,21 @@
+[
+    {
+        "slika":"images/Fossil.jpg",
+        "naslov":"Fossil",
+        "tekst":"Shop our latest women's and man's watches, by best prices",
+        "id": 1
+    
+    },
+    {
+        "slika":"images/Casio.jpg",
+        "naslov":"Casio",
+        "tekst":"We have a casio licence for long time, and best price for them, go to shop and take a look",
+        "id": 2
+    },
+    {
+        "slika":"images/Tissot.png",
+        "naslov":"Tissot",
+        "tekst":"Tissot is one of our best selling watches, maybe one is waiting for you",
+        "id": 3
+    }
+]

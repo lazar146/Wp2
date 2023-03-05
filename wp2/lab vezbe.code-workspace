@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../lab vezbe"
+		},
+		{
+			"path": "../../../php"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "C:/xampp/htdocs/vezbaklk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web2"
+	}
+}

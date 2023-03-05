@@ -1,0 +1,14 @@
+[
+    {
+        "name": "SHOP",
+        "link":"shop.html"
+    },
+    {
+        "name": "BRANDS",
+        "link":"brands.html"
+    },
+    {
+        "name": "HOME",
+        "link":"index.html"
+    }
+]
